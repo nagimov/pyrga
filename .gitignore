@@ -1,0 +1,10 @@
+# pylint
+*pylintrc
+# packaging
+*.egg-info/
+build/
+dist/
+release.sh
+release_test.sh
+# byte-compiled
+__pycache__/
